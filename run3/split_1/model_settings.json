@@ -1,1 +1,0 @@
-{"model_type": "mamba", "batch_size": 32, "epochs": 20, "dataset": "physionet2012", "learning_rate": 0.001, "patience": 10, "early_stop_criteria": "auroc", "base_path": "./P12data", "pooling_fxn": "max"}
